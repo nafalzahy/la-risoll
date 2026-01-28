@@ -39,7 +39,7 @@ const menuItems = [
         name: 'Udang Keju',
         description: 'Olahan udang dan daging ayam yang berisi keju lumer.',
         price: 3000,
-        image: 'https://image2url.com/images/1765337820373-bccd63b6-0380-4c76-bb4d-55fb0ee12b76.jpg'
+        image: 'https://image2url.com/r2/default/images/1769563497315-20c141a0-012b-4b62-a11b-f17544160e6c.jpg'
     },
     {
         id: 7,
