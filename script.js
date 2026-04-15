@@ -41,48 +41,6 @@ const menuItems = [
         price: 3000,
         image: 'https://image2url.com/r2/default/images/1769564201605-92bf535c-3cd1-44d6-ac05-e447b082e3f3.jpg'
     },
-    {
-        id: 7,
-        name: 'Roti Kukus Thailand selai buah',
-        description: 'Varian selai buah dengan 4 pilihan rasa selai yaitu Stawberry, Nanas, Blueberry, Dan Melon.',
-        price: 3000,
-        image: 'https://image2url.com/images/1765337872240-5bfca5af-4ccd-433b-8032-5085285124de.jpg'
-    },
-    {
-        id: 8,
-        name: 'Roti Kukus Thailand Selai Manis',
-        description: 'Varian selai manis dengan 7 pilihan rasa yaitu Cokelat, Susu, Vanilla, Tiramisu, Cappucino, Taro, Dan Greentea.',
-        price: 3500,
-        image: 'https://image2url.com/images/1765337953658-e34cc4dc-0e44-4ec7-acf7-9603ad7ecc8e.jpg'
-    },
-    {
-        id: 9,
-        name: 'Roti Kukus Thailand Topping Keju/Meses',
-        description: 'Varian Keju/Meses dengan 4 pilihan rasa yaitu Cokelat Keju/Meses dan susu Keju/Meses.',
-        price: 4500,
-        image: 'https://image2url.com/images/1765338340615-49835227-d00c-4fd4-9ecb-10cf94e956f4.jpg'
-    },
-     {
-        id: 10,
-        name: 'Roti Kukus Thailand Selai Cokelat Topping',
-        description: 'Varian selai Cokelat topping ada 4 pilihan topping yaitu Oreo, Chocochip, Crunchy, dan kacang.',
-        price: 5000,
-        image: 'https://image2url.com/images/1765338394170-b7bacd7b-3373-4415-90ff-ca07bfe20c9d.jpg'
-    },
-    {
-        id: 11,
-        name: 'Roti Kukus Thailand Selai Tiramisu Topping',
-        description: 'Varian selai tiramisu topping ada 4 pilihan topping yaitu Oreo, Chocochip, Crunchy, dan kacang.',
-        price: 5000,
-        image: 'https://image2url.com/images/1765338436255-d2e8d71f-801d-4076-9b87-30b367f0d1bd.jpg'
-    },
-    {
-        id: 12,
-        name: 'Roti Kukus Thailand Gurih/Asin',
-        description: 'Varian gurih dan asin ada 4 pilihan yaitu Sosis mayo, Sosis Keju, Bakso mayo, dan Abon.',
-        price: 7000,
-        image: 'https://image2url.com/images/1765338478383-725ec741-ed68-4805-b416-0e9ed58aaeb6.jpg'
-    },
 ]
 
 // Cart state
