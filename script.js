@@ -3,9 +3,9 @@ const menuItems = [
     {
         id: 1,
         name: 'Risol Mayo',
-        description: 'Dengan isian mayo, telur dan beef.',
+        description: 'Dengan isian mayo, telur dan sosis.',
         price: 2500,
-        image:'https://image2url.com/images/1764984757600-1a37d680-512a-4f54-a7f7-4131f9adf66e.jpg'
+        image:'https://www.image2url.com/r2/default/images/1777513734728-b9bfff3a-e212-4a96-a488-eea27299993c.jpg'
     },
     {   id: 2,
         name: 'Risol Cokelat Crunchy',
@@ -36,10 +36,31 @@ const menuItems = [
     },
     {
         id: 6,
+        name: 'Risol Matcha Keju',
+        description: 'Dengan isian fla matcha dan keju yang lumer.',
+        price: 3000,
+        image: 'https://www.image2url.com/r2/default/images/1777513626075-22d228f0-2f24-4efb-afc0-584e764c8a65.jpg'
+    },
+    {
+        id: 7,
         name: 'Udang Keju',
         description: 'Olahan udang dan daging ayam yang berisi keju lumer.',
         price: 3000,
         image: 'https://image2url.com/r2/default/images/1769564201605-92bf535c-3cd1-44d6-ac05-e447b082e3f3.jpg'
+    },
+    {
+        id: 8,
+        name: 'Bola Ayam Keju',
+        description: 'Olahan daging ayam yang berisi keju lumer.',
+        price: 2500,
+        image: 'https://www.image2url.com/r2/default/images/1777514080992-b0bb6ea6-4f10-499f-8dae-96b883597d38.jpg'
+    },
+    {
+        id: 9,
+        name: 'Nugget Ayam',
+        description: 'Olahan daging ayam dengan campuran sayuran.',
+        price: 2500,
+        image: 'https://www.image2url.com/r2/default/images/1777514171670-3fd4f37e-002a-4f02-8fb8-b45a284867bb.jpg'
     },
 ]
 
