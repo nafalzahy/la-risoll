@@ -53,6 +53,80 @@ body {
     color: #64a0ff;
 }
 
+/* ===== Deskripsi di bawah header ===== */
+.description {
+    margin: 24px 0;
+}
+
+.description-content {
+    background: rgba(26, 26, 46, 0.8);
+    backdrop-filter: blur(10px);
+    padding: 1.5rem 0;
+    text-align: center;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid rgba(100, 150, 255, 0.2);
+}
+
+.description-content h4 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+    color: #ffffff;
+}
+
+.description-content > p {
+    max-width: 700px;
+    margin: 0 auto 24px;
+    line-height: 1.7;
+    color: #64a0ff;
+}
+
+.description-features {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+}
+
+.feature-item {
+    background: #fff;
+    border-radius: 12px;
+    padding: 18px 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.feature-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+}
+
+.feature-item i {
+    font-size: 1.8rem;
+    color: #e67e22;
+    margin-bottom: 10px;
+}
+
+.feature-item h3 {
+    font-size: 1rem;
+    margin-bottom: 4px;
+    color: #333;
+}
+
+.feature-item span {
+    font-size: 0.85rem;
+    color: #777;
+}
+
+/* Responsif untuk HP */
+@media (max-width: 600px) {
+    .description-features {
+        grid-template-columns: 1fr;
+    }
+
+    .description-content h2 {
+        font-size: 1.3rem;
+    }
+}
 /* Main Content */
 .main-content {
     display: grid;
