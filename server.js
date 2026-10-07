@@ -23,28 +23,28 @@ const menuItems = [
         name: 'Risol Cokelat Crunchy',
         description: 'Dengan isian cokelat crunchy yang manis dan lumer.',
         price: 2500,
-        image: 'https://image2url.com/images/1764988650580-d48ee439-9adc-4c12-a399-a3dd7f10847e.jpg'
+        image: 'https://www.image2url.com/r2/default/images/1791338283622-a8415044-5687-4a02-b63d-96f83a6a0668.jpg'
     },
     {
         id: 3,
         name: 'Risol Ayam Suwir',
         description: 'Dengan isian ayam suwir yang berbumbu.',
         price: 3000,
-        image: 'https://image2url.com/images/1764985106802-6f144523-c936-48c3-a00f-3f7796f29dc2.jpg'
+        image: 'https://www.image2url.com/r2/default/images/1791338702321-163874d0-19c9-481e-aacb-f16a89faab5a.jpg'
     },
     {
         id: 4,
         name: 'Risol Mentai Crabstick',
         description: 'Dengan isian saus mentai, telur dan crabstick.',
         price: 3000,
-        image: 'https://image2url.com/images/1764988620764-4b96aaec-441a-4e82-a20e-2a443c51304a.jpg'
+        image: 'https://www.image2url.com/r2/default/images/1791337460274-9ef9e35a-6115-493d-b9d5-de60522d748e.jpg'
     },
     {
         id: 5,
         name: 'Risol Pizza Bolognese',
         description: 'Dengan isian sosis yang dicampur saus bolognese.',
         price: 3000,
-        image: 'https://image2url.com/images/1764988585611-3f764de3-8d28-4bad-afa7-14e348649b24.jpg'
+        image: 'https://www.image2url.com/r2/default/images/1791338392647-a57ef3d7-21dd-444f-8efd-85ab3cb4dab6.jpg'
     },
     {
         id: 6,
@@ -58,21 +58,14 @@ const menuItems = [
         name: 'Udang Keju',
         description: 'Olahan udang dan daging ayam yang berisi keju lumer.',
         price: 3000,
-        image: 'https://image2url.com/r2/default/images/1769564201605-92bf535c-3cd1-44d6-ac05-e447b082e3f3.jpg'
+        image: 'https://www.image2url.com/r2/default/images/1791338583707-662999dc-db06-423c-b1b4-d9e7edd09d0e.jpg'
     },
     {
         id: 8,
         name: 'Bola Ayam Keju',
         description: 'Olahan daging ayam yang berisi keju lumer.',
         price: 2500,
-        image: 'https://www.image2url.com/r2/default/images/1777514080992-b0bb6ea6-4f10-499f-8dae-96b883597d38.jpg'
-    },
-    {
-        id: 9,
-        name: 'Nugget Ayam',
-        description: 'Olahan daging ayam dengan campuran sayuran.',
-        price: 2500,
-        image: 'https://www.image2url.com/r2/default/images/1777514171670-3fd4f37e-002a-4f02-8fb8-b45a284867bb.jpg'
+        image: 'https://www.image2url.com/r2/default/images/1791338163000-54211bf3-d77c-49fa-be62-c3bdc0da46c7.jpg'
     },
 ];
 
