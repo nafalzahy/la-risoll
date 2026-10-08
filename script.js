@@ -16,7 +16,7 @@ const menuItems = [
     {
         id: 3,
         name: 'Risol Ayam Suwir',
-        description: 'Dengan isian ayam suwir yang berbumbu.',
+        description: 'Dengan isian ayam suwir yang berbumbu pedas manis.',
         price: 3000,
         image: 'https://www.image2url.com/r2/default/images/1791338702321-163874d0-19c9-481e-aacb-f16a89faab5a.jpg'
     },

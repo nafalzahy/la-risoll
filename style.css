@@ -451,3 +451,33 @@ footer {
     border-top: 1px solid #444;
     color: #999;
 }
+/* ===== Font paragraf ===== */
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    line-height: 1.75;
+    letter-spacing: 0.2px;
+}
+
+/* Paragraf di header (lebih menonjol) */
+.header-content p {
+    font-size: 1.05rem;
+    font-weight: 400;
+    max-width: 650px;
+    margin: 10px auto 0;
+}
+
+/* Tagline "Cita rasa dalam setiap gigitan" */
+.header-content b {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+/* Paragraf di bagian deskripsi */
+.description-content > p {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #928f8f;
+}
